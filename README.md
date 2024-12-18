@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kisan Rai</h1>
-<h3 align="center">With 1.5 years in software development, I embrace challenges, learn fast, and deliver solutions that push boundaries. Driven by growth and a relentless commitment to improvement</h3>
+<h3 align="center">I’ve learned that true growth comes from embracing challenges and never settling for less. I’m the kind of developer who pushes boundaries—ready to relearn, adapt, and improve with every task. When faced with unfamiliar situations, I take the initiative to find solutions and consistently deliver on time with my problem-solving skills to push above and beyond</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisan303&label=Profile%20views&color=0e75b6&style=flat" alt="kisan303" /> </p>
 
